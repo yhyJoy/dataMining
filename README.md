@@ -1,5 +1,5 @@
-# dataMining
-cug dataMing homework
+# dataMining  
+cug dataMing homework  
 Lab1  
   --MAGIC Gamma Telescope Data.csv    ---project1 数据源  
     
