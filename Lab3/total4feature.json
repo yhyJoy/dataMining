@@ -1,0 +1,9 @@
+{"attribute": 3, "splitPoint": 0.8, "gain": 0.9182958340544894, 
+	"left": {"class": "Iris-setosa", "purity": 1.0, "number": 50}, 
+	"right": {"attribute": 3, "splitPoint": 1.75, "gain": 0.6901603707546748, 
+		"left": {"attribute": 2, "splitPoint": 4.95, "gain": 0.21317043093799642, 
+			"left": {"class": "Iris-versicolor", "purity": 0.9791666666666666, "number": 48}, 
+			"right": {"attribute": 3, "splitPoint": 1.55, "gain": 0.4591479170272448, 
+				"left": {"class": "Iris-virginica", "purity": 1.0, "number": 3}, 
+				"right": {"class": "Iris-versicolor", "purity": 0.6666666666666666, "number": 3}}}, 
+		"right": {"class": "Iris-virginica", "purity": 0.9782608695652174, "number": 46}}}
